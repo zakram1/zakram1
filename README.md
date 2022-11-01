@@ -3,8 +3,6 @@
 
 🏫 - Stats/ML & CS at Carnegie Mellon University
 
-💻 - Software Engineering Intern at DAOHQ
-
 ---
 
 ### __Contact__
