@@ -1,7 +1,7 @@
 <div align="center">
 <h1><strong>Hey, I'm Zubair!</strong></h1>
 
-🏫 - Stats/ML & CS at Carnegie Mellon University
+🏫 - Student @ Carnegie Mellon University
 
 ---
 
