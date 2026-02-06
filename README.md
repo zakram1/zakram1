@@ -11,6 +11,4 @@
 
 ---
 
-![zakram1 readme stats](https://github-readme-stats.vercel.app/api?username=zakram1&show_icons=true&theme=merko&include_all_commits=true)
-
 <div>
